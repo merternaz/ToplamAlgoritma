@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\Int2liSum\bin\Debug\net7.0\Int2liSum.exe
+C:\Users\MONSTER\GitProject\Int2liSum\bin\Debug\net7.0\Int2liSum.deps.json
+C:\Users\MONSTER\GitProject\Int2liSum\bin\Debug\net7.0\Int2liSum.runtimeconfig.json
+C:\Users\MONSTER\GitProject\Int2liSum\bin\Debug\net7.0\Int2liSum.dll
+C:\Users\MONSTER\GitProject\Int2liSum\bin\Debug\net7.0\Int2liSum.pdb
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.dll
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\refint\Int2liSum.dll
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.pdb
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\Int2liSum.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\Int2liSum\obj\Debug\net7.0\ref\Int2liSum.dll
